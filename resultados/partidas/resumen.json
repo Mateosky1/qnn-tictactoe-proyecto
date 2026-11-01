@@ -1,0 +1,146 @@
+{
+  "largo1_gen500__simetrias__t2s": {
+    "partidas": 1000,
+    "victorias": 744,
+    "empates": 176,
+    "derrotas": 80,
+    "pct_victorias": 74.4,
+    "pct_empates": 17.6,
+    "pct_derrotas": 8.0,
+    "ic95_victorias": [
+      71.61,
+      77.01
+    ],
+    "ic95_derrotas": [
+      6.47,
+      9.85
+    ],
+    "pct_no_derrota": 92.0,
+    "jugadas_oracle": 5155,
+    "pct_jugadas_oracle_exactas": 44.03,
+    "modelo": "largo1_gen500",
+    "modo": "simetrias",
+    "oracle_seg": 2,
+    "seed_base": 50000
+  },
+  "largo1_gen500__simetrias__t4s": {
+    "partidas": 1000,
+    "victorias": 717,
+    "empates": 189,
+    "derrotas": 94,
+    "pct_victorias": 71.7,
+    "pct_empates": 18.9,
+    "pct_derrotas": 9.4,
+    "ic95_victorias": [
+      68.83,
+      74.4
+    ],
+    "ic95_derrotas": [
+      7.74,
+      11.37
+    ],
+    "pct_no_derrota": 90.6,
+    "jugadas_oracle": 5251,
+    "pct_jugadas_oracle_exactas": 47.25,
+    "modelo": "largo1_gen500",
+    "modo": "simetrias",
+    "oracle_seg": 4,
+    "seed_base": 50000
+  },
+  "largo1_gen500__simetrias__t10s": {
+    "partidas": 1000,
+    "victorias": 673,
+    "empates": 220,
+    "derrotas": 107,
+    "pct_victorias": 67.3,
+    "pct_empates": 22.0,
+    "pct_derrotas": 10.7,
+    "ic95_victorias": [
+      64.33,
+      70.14
+    ],
+    "ic95_derrotas": [
+      8.93,
+      12.77
+    ],
+    "pct_no_derrota": 89.3,
+    "jugadas_oracle": 5463,
+    "pct_jugadas_oracle_exactas": 52.1,
+    "modelo": "largo1_gen500",
+    "modo": "simetrias",
+    "oracle_seg": 10,
+    "seed_base": 50000
+  },
+  "largo1_final__simetrias__t2s": {
+    "partidas": 1000,
+    "victorias": 789,
+    "empates": 184,
+    "derrotas": 27,
+    "pct_victorias": 78.9,
+    "pct_empates": 18.4,
+    "pct_derrotas": 2.7,
+    "ic95_victorias": [
+      76.26,
+      81.32
+    ],
+    "ic95_derrotas": [
+      1.86,
+      3.9
+    ],
+    "pct_no_derrota": 97.3,
+    "jugadas_oracle": 5093,
+    "pct_jugadas_oracle_exactas": 46.04,
+    "modelo": "largo1_final",
+    "modo": "simetrias",
+    "oracle_seg": 2,
+    "seed_base": 50000
+  },
+  "largo1_final__simetrias__t4s": {
+    "partidas": 1000,
+    "victorias": 761,
+    "empates": 198,
+    "derrotas": 41,
+    "pct_victorias": 76.1,
+    "pct_empates": 19.8,
+    "pct_derrotas": 4.1,
+    "ic95_victorias": [
+      73.36,
+      78.64
+    ],
+    "ic95_derrotas": [
+      3.04,
+      5.51
+    ],
+    "pct_no_derrota": 95.9,
+    "jugadas_oracle": 5210,
+    "pct_jugadas_oracle_exactas": 49.44,
+    "modelo": "largo1_final",
+    "modo": "simetrias",
+    "oracle_seg": 4,
+    "seed_base": 50000
+  },
+  "largo1_final__simetrias__t10s": {
+    "partidas": 1000,
+    "victorias": 730,
+    "empates": 219,
+    "derrotas": 51,
+    "pct_victorias": 73.0,
+    "pct_empates": 21.9,
+    "pct_derrotas": 5.1,
+    "ic95_victorias": [
+      70.16,
+      75.66
+    ],
+    "ic95_derrotas": [
+      3.9,
+      6.64
+    ],
+    "pct_no_derrota": 94.9,
+    "jugadas_oracle": 5367,
+    "pct_jugadas_oracle_exactas": 54.0,
+    "modelo": "largo1_final",
+    "modo": "simetrias",
+    "oracle_seg": 10,
+    "seed_base": 50000
+  }
+}
